@@ -35,9 +35,13 @@ features                                  :
     description                           : Current date/time or manually select a date/time <br> <br> Location of the timestamp on the image <br> <br> Color of the timestamp <br> <br> Format of the timestamp <br> <br> Font of the timestamp
     fontawesome_icon_name                 : cog
     
-  - title                                 : Siri Shortcuts
-    description                           : Use Siri Shortcuts to quickly take a photo <br> <br> Use Siri Shortcuts to quickly select images from the photo library
+  - title                                 : Siri Shortcuts and 3D Touch
+    description                           : Use Siri Shortcuts to quickly take a photo <br> <br> Use Siri Shortcuts to quickly select images from the photo library <br> <br> 3D Touch the app icon to quickly take a photo or select photos from the photo library
     fontawesome_icon_name                 : microphone
+    
+  - title                                 : Pro Version
+    description                           : Upgrade to Timestamp Pro to allow an unlimited selection of images when stamping from the photo library
+    fontawesome_icon_name                 : stamp
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
