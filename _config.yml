@@ -36,7 +36,7 @@ features                                  :
     fontawesome_icon_name                 : 
     
   - title                                 : Siri Shortcuts
-    description                           : Use Siri Shortcuts to quickly take a photo \n Use Siri Shortcuts to quickly select images from the photo library
+    description                           : Use Siri Shortcuts to quickly take a photo <br> Use Siri Shortcuts to quickly select images from the photo library
     fontawesome_icon_name                 : microphone
 
   - title                                 : # New Feature Title
