@@ -18,10 +18,10 @@ enable_smart_app_banner                   : true                                
 # Information About Yourself
 your_name                                 : Marco Contino                                
 your_link                                 : https://marcocontino.com                     
-your_city                                 : Philadelphia                                
-email_address                             : emil.baehr@gmail.com
-facebook_username                         :                                           
-instagram_username                        : 
+your_city                                 :
+email_address                             :
+facebook_username                         :   
+instagram_username                        :
 twitter_username                          : AppsByMarco
 github_username                           : Marcoc88
 youtube_username                          :
@@ -31,9 +31,9 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 :
+    description                           :
+    fontawesome_icon_name                 : 
     
   - title                                 : iPhone Device Preview
     description                           : Preview your app in the context of an iPhone device. Five different device colors included.
