@@ -32,11 +32,11 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Configuration Options
-    description                           : Current date/time or manually select a date/time <br> <br> Location of the timestamp on the image <br> <br> Color of the timestamp <br> <br> Format of the timestamp <br> <br> Font of the timestamp
+    description                           : <ul> <li> Current date/time or manually select a date/time </li> <li> Location of the timestamp on the image </li> <li> Color of the timestamp </li> <li> Format of the timestamp </li> <li> Font of the timestamp </li> </ul>
     fontawesome_icon_name                 : cog
     
   - title                                 : Siri Shortcuts and 3D Touch
-    description                           : Use Siri Shortcuts to quickly take a photo <br> <br> Use Siri Shortcuts to quickly select images from the photo library <br> <br> 3D Touch the app icon to quickly take a photo or select photos from the photo library
+    description                           : <ul> <li> Use Siri Shortcuts to quickly take a photo </li> <li> Use Siri Shortcuts to quickly select images from the photo library </li> <li> 3D Touch the app icon to quickly take a photo or select photos from the photo library </li> </ul>
     fontawesome_icon_name                 : microphone
     
   - title                                 : Pro Version
