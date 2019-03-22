@@ -9,7 +9,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Take timestamped photos or select images already in your camera roll and add a timestamp to each image.
+app_description                           : Take timestamped photos or select images already in your camera roll and add a timestamp to each image. <br> <br> <a href="http://marcocontino.com/Timestamp/">Privacy Policy</a>
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
