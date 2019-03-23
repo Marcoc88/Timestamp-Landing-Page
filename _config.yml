@@ -43,7 +43,9 @@ features                                  :
     description                           : Upgrade to Timestamp Pro to allow an unlimited selection of images when stamping from the photo library
     fontawesome_icon_name                 : stamp
     
-  - title                                 : <a href="https://marcocontino.com/Timestamp/">Privacy Policy</a>
+  - title                                 : Privacy Policy
+    description                           : <a href="https://marcocontino.com/Timestamp/">Timestamp Privacy Policy</a>
+    fontawesome_icon_name                 : thumbs-up
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
